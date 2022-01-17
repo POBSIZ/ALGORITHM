@@ -1,5 +1,5 @@
 // const fs = require("fs");
-// let input = fs.readFileSync("/dev/stdin").toString().split("\n");
+// let input: string = fs.readFileSync("/dev/stdin").toString().split("\n");
 
 const genNumArr = (_num: number): number[] => {
   let result_arr: number[] = [];
